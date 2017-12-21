@@ -1,5 +1,4 @@
 Handwritten image and its OCR'ed text file
-Handwritten image and its OCR'ed text file
 
 1. Create your own paper document by writing a few numbers 
 and words in 3-4 lines. Do not use cursive writing, instead 
