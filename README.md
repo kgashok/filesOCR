@@ -2,7 +2,7 @@ Handwritten image and its OCR'ed text file
 
 1. Create your own paper document by writing a few numbers 
 and words in 3-4 lines. Do not use cursive writing, instead 
-use capital letters and right as neatly as possible. Here's 
+use capital letters and write as neatly as possible. Here's 
 an [example](http://j.mp/numberWords). 
 2. Create a digital copy of the same (what will you use to 
 create a scanned copy?)
