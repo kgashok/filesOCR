@@ -19,30 +19,29 @@
 5. Check whether a given number is Armstrong number or not?
 
 6. Given a set of numbers like &lt;10, 36, 54, 89, 12, 27&gt;, find sum of weights based on the following conditions.
-
-- 5 if it is a perfect cube.
-- 4 if it is a multiple of 4 and divisible by 6.
-- 3 if it is a prime number.
-
-Sort the numbers based on the weight in the increasing order as shown below &lt;10,its weight&gt;,&lt;36,its weight&gt;&lt;89,its weight&gt;
+ 
+   - 5 if it is a perfect cube.
+   - 4 if it is a multiple of 4 and divisible by 6.
+   - 3 if it is a prime number.
+> Sort the numbers based on the weight in the increasing order as shown below 
+> `<10,its weight>`
+> `<36,its weight>`
+> `<89,its weight>`
 
 7. Populate an array with height of persons and find how many persons are above the average height.
 
 8. Populate a two dimensional array with height and weight of persons and compute the Body Mass Index of the individuals.
 
-9. Given a string ―a$bcd./fg‖ find its reverse without changing the position of special characters.
+9. Given a string ― `a$bcd./fg`, find its reverse without changing the position of special characters. 
 
-(Example input:a@gh%;j and output:j@hg%;a)
+	**Example** input: `a@gh%;j` and output: `j@hg%;a`
 
 10. Convert the given decimal number into binary, octal and hexadecimal numbers using user defined functions.
 
 11. From a given paragraph perform the following using built-in functions:
-
-a. Find the total number of words.
-
-b. Capitalize the first word of each sentence.
-
-c. Replace a given word with another word.
+    - a. Find the total number of words.
+    - b. Capitalize the first word of each sentence.
+    - c. Replace a given word with another word.
 
 12. Solve towers of Hanoi using recursion.
 
@@ -54,11 +53,11 @@ c. Replace a given word with another word.
 
 16. Insert, update, delete and append telephone details of an individual or a company into a telephone directory using random access file.
 
-17. Count the number of account holders whose balance is less than the minimum balance using sequential access file.
+17. Count the number of **account holders** whose balance is less than the minimum balance using sequential access file.
 
 **Mini project**
 
-18. Create a ―Railway reservation system‖ with the following modules
+18. Create a ―Railway reservation system with the following modules
 
 - Booking
 - Availability checking
