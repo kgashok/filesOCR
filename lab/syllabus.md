@@ -1,7 +1,5 @@
 **CS8261 C PROGRAMMING LABORATORY                  L T P C 0 0 4 2**
-
 **OBJECTIVES:**
-
 - To develop programs in C using basic constructs.
 - To develop applications in C using strings, pointers, functions, structures.
 - To develop applications in C using file processing.
@@ -19,23 +17,22 @@
 5. Check whether a given number is Armstrong number or not?
 
 6. Given a set of numbers like &lt;10, 36, 54, 89, 12, 27&gt;, find sum of weights based on the following conditions.
- 
+
    - 5 if it is a perfect cube.
    - 4 if it is a multiple of 4 and divisible by 6.
    - 3 if it is a prime number.
 > Sort the numbers based on the weight in the increasing order as shown below 
-> `<10,its weight>`
-> `<36,its weight>`
-> `<89,its weight>`
+> `<10,its weight>`  
+> `<36,its weight>`  
+> `<89,its weight>`  
 
 7. Populate an array with height of persons and find how many persons are above the average height.
 
 8. Populate a two dimensional array with height and weight of persons and compute the Body Mass Index of the individuals.
 
 9. Given a string ― `a$bcd./fg`, find its reverse without changing the position of special characters. 
-
 	**Example** input: `a@gh%;j` and output: `j@hg%;a`
-
+	
 10. Convert the given decimal number into binary, octal and hexadecimal numbers using user defined functions.
 
 11. From a given paragraph perform the following using built-in functions:
