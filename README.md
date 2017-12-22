@@ -22,3 +22,9 @@ end up with a snapshot of a cloned repo directory similar
 to the image below: 
 
 ![ocr](https://cdn.rawgit.com/kgashok/filesOCR/1d2f5c87/directoryImage.png)
+
+
+### Three Artifacts
+
+![img](https://github.com/kgashok/filesOCR/blob/master/threeArtifacts.jpeg) 
+
