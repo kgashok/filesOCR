@@ -36,7 +36,7 @@
 7. When the compile program (hand.exe) is executed as 
    `hand.exe` it 
     - A. Reads the file `hand.txt` and prints the count 
-    - B. Complains if the `hand.txt` file does not exists
+    - B. Prints an error message if the `hand.txt` file does not exists
     - C. Both of the above
 
 
