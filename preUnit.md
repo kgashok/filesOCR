@@ -25,3 +25,18 @@
 5. How many symbols did you write on paper? 
    Does it match with the count generated 
    by the `hand.c` program? 
+
+## Comand line arguments 
+6. When the compiled program (hand.exe) is executed as 
+   `hand.exe podcast.txt` it 
+    - A. It does not execute
+    - B. Reports the count of characters in podcast.txt 
+    - C. It does nothing 
+
+7. When the compile program (hand.exe) is executed as 
+   `hand.exe` it 
+    - A. Reads the file `hand.txt` and prints the count 
+    - B. Complains if the `hand.txt` file does not exists
+    - C. Both of the above
+
+
