@@ -22,3 +22,6 @@
     - B. The .jpg file 
     - C. Both the above 
 
+5. How many symbols did you write on paper? 
+   Does it match with the count generated 
+   by the `hand.c` program? 
