@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include <string.h>
 
+/*
+ * counts the number of characters in a text file.
+ * The executable can be invoked with a command line argument 
+ * which must be the name of an existing file 
+ * If no file is provided, by default it will read the 
+ * file name "hand.txt" and print the number of characters 
+ * in that file
+ */
 int main(int argc, char* argv[])
 {
     char fname[30];

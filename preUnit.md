@@ -33,7 +33,7 @@
     - B. Reports the count of characters in podcast.txt 
     - C. It does nothing 
 
-7. When the compile program (hand.exe) is executed as 
+7. When the compiled program (hand.exe) is executed as 
    `hand.exe` it 
     - A. Reads the file `hand.txt` and prints the count 
     - B. Prints an error message if the `hand.txt` file does not exists
