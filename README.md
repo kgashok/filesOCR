@@ -26,5 +26,9 @@ to the image below:
 
 ### Three Artifacts
 
-![img](https://github.com/kgashok/filesOCR/blob/master/threeArtifacts.jpeg) 
+![img](https://cdn.rawgit.com/kgashok/filesOCR/0446611b/threeArtifacts.jpeg) 
 
+### CyberDojo session
+
+Use CyberDojo to execute the program on your personal `hand.txt` file.
+http://j.mp/filesOcrCD
