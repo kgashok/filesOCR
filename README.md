@@ -31,4 +31,4 @@ to the image below:
 ### CyberDojo session
 
 Use CyberDojo to execute the program on your personal `hand.txt` file.
-http://j.mp/filesOcrCD
+http://j.mp/byteCountCD
