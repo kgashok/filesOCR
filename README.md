@@ -28,11 +28,13 @@ to the image below:
 
 ![img](https://cdn.rawgit.com/kgashok/filesOCR/0446611b/threeArtifacts.jpeg) 
 
+## Python program
+Write your own Python program to count the number of 
+bytes in a text file.
+
+
 ### CyberDojo session
 
 Use CyberDojo to execute the program on your personal `hand.txt` file.
 http://j.mp/byteCountCD
 
-## Python program
-Write your own Python program to count the number of 
-bytes in a text file.
