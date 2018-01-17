@@ -39,4 +39,5 @@
     - B. Prints an error message if the `hand.txt` file does not exists
     - C. Both of the above
 
-
+8. Do the count values for both your python and C programs match? 
+   If they don't, what is the reason? 
