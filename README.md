@@ -32,3 +32,7 @@ to the image below:
 
 Use CyberDojo to execute the program on your personal `hand.txt` file.
 http://j.mp/byteCountCD
+
+## Python program
+Write your own Python program to count the number of 
+bytes in a text file.
