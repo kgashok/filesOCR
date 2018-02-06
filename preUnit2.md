@@ -82,3 +82,6 @@ $ ./a.out sample.txt 23 456
 8. A
 9. B
 10. A
+
+
+Credits: Ashok R (CSE)
