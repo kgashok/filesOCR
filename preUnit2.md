@@ -1,3 +1,5 @@
+# MCQ 2 
+
 1. OCR means ..........  
   A.     Optional Chain Retention  
   B.     Object Character Recognition  
