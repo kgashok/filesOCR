@@ -36,4 +36,5 @@ bytes in a text file.
 ### CyberDojo session
 
 Use CyberDojo to execute the program on your personal `hand.txt` file.
-  - Go to http://cyberdojo1.kgfsl.com and use 3C071B767B as the session ID
+  - Go to http://cyberdojo1.kgfsl.com and use `3C071B767B` as the session ID
+  - Alternatively, use the session http://cyberdojo1.kgfsl.com/kata/edit/Cz0e1R
